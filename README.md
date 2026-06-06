@@ -10,10 +10,12 @@ El objetivo es brindar una solución integral para instituciones educativas, per
 
 ### ➡️ Backend
 - **Spring Boot** (Core del ecosistema Java)
-- **Spring Data JPA** (Persistencia de datos y repositorios)
-- **Spring Security** con **JWT** (Autenticación basada en tokens)
+- **Spring Data JPA con Hibernate** (Persistencia de datos y repositorios)
+- **Spring Security** con **JWT** (Autenticación de factor unico)
 - **MySQL** (Base de datos relacional)
 - **Lombok** & **Validation** (Optimización de código y validación de DTOs)
+- **Postman** (Pruebas de API)
+
 
 ### ➡️ Frontend
 - **React + Vite** 
